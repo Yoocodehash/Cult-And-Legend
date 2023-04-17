@@ -5,7 +5,6 @@ using UnityEngine;
 public class MonsterClassSystem : MonoBehaviour
 {
 
-
     public GabrielAssaultClass GabrielassaultClass;
 
     public NessaSniperClass NessasniperClass;
@@ -20,8 +19,6 @@ public class MonsterClassSystem : MonoBehaviour
 
     private GameObject playerCharacter;
     private MonoBehaviour currentClassScript;
-
-
 
     /*
     // Start is called before the first frame update
